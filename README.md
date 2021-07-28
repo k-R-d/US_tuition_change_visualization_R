@@ -9,3 +9,9 @@ Code is in R
 
 tidytuesday repository:
 https://github.com/rfordatascience/tidytuesday/tree/master/data
+<br /> 
+<br /> 
+![tuition_change](https://user-images.githubusercontent.com/88089678/127361117-f68301f0-4855-4032-8f1b-531b8ad0c4a5.png)
+<br /> 
+<br /> 
+![tuition_cleveland_plot](https://user-images.githubusercontent.com/88089678/127361179-fe3ba9e4-9979-40f9-8953-04c96865a594.png)
