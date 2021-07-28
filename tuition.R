@@ -50,8 +50,7 @@ tuition_change %>% ggplot(aes(x = fct_reorder(State, change), y = change)) +
                      labels = NULL, breaks = NULL) +               # and labels
   theme_classic() +
   theme(plot.title = element_text(size = rel(2)),  # adjust plot title text size
-        legend.text = element_text(size = rel(1.6))) +  # adjust legend text size
-  ggsave("tuition_change.png")  # save
+        legend.text = element_text(size = rel(1.6)))  # adjust legend text size
 
 
 
@@ -81,8 +80,7 @@ tuition_growth %>%
   ggtitle("Growth in US Tuition 2005-2015") +
   scale_color_manual(values = c("deeppink1", "darkviolet"), name = NULL) +
   theme(plot.title = element_text(size = rel(2)),
-    legend.text = element_text(size = rel(2))) +
-  ggsave("tuition_cleveland_plot.png")
+    legend.text = element_text(size = rel(2)))
         
   
   
