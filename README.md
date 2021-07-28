@@ -1,4 +1,4 @@
-# Average US Tuition changes visualized in R
+## Average US Tuition changes visualized in R
 
 This is a visual exploration of the 'us_avg_tuition' dataset included in the #tidytuesday visualization challenges 
 tidytuesday promotes the use of R's tidyverse packages in exploring and visualzing data
