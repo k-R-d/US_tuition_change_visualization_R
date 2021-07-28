@@ -4,7 +4,6 @@ library(tidyverse)
 library(readxl)
 library(skimr)
 
-
 # read in dataset
 # get it here, https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-04-02
 
